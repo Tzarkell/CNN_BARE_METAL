@@ -1,0 +1,21 @@
+;**************************************************
+; Copyright (c) 2015 Altera  All Rights Reserved.
+;**************************************************
+
+; Scatter-file for OnChip RAM based example
+
+; This scatter-file places application code, data, stack and heap at suitable addresses in the memory map.
+
+; Altera CycloneV/ArriaV SoC-FPGA has 32MB of SDRAM at base address 0x02000000
+
+SDRAM 0x02000000 0x02000000 ; 32M SDRAM
+{
+    APP_CODE +0
+
+    {
+        * (+RO, +RW, +ZI)
+    }
+
+    ARM_LIB_STACKHEAP  0x03000000 EMPTY  0x01000000 ; Application heap and stack
+    { }
+}

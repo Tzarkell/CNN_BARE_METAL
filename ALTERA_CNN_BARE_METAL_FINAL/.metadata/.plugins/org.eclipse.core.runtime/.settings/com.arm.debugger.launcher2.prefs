@@ -1,0 +1,6 @@
+config_db_path=/softl2/altera17_0/embedded/ds-5/sw/debugger/configdb\:
+config_db_path0_defaultid=com.arm.ds\:0
+config_db_path0_enabled=true
+eclipse.preferences.version=1
+enabled_config_db_path=/softl2/altera17_0/embedded/ds-5/sw/debugger/configdb\:
+last_connection_browser_settings=<?xml version\="1.0" encoding\="UTF-8"?>\n<section name\="prefs">\n\t<item value\="613" key\="DIALOG_WIDTH"/>\n\t<item value\="1|Cantarell|11.0|0|GTK|1|" key\="DIALOG_FONT_NAME"/>\n\t<item value\="394" key\="DIALOG_HEIGHT"/>\n\t<item value\="274" key\="DIALOG_X_ORIGIN"/>\n\t<item value\="154" key\="DIALOG_Y_ORIGIN"/>\n</section>\n
