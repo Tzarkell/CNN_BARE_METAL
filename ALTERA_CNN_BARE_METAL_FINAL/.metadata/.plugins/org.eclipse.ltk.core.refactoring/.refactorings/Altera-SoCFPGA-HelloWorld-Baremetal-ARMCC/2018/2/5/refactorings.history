@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Altera-SoCFPGA-HelloWorld-Baremetal-ARMCC/hello2.c&apos; to &apos;test.c&apos;" description="Rename resource &apos;hello2.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="hello2.c" name="test.c" stamp="1517579491660" updateReferences="true"/>
+</session>
