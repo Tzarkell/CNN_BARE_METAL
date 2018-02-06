@@ -32,7 +32,7 @@ const float img[3][32][32]={{{59,43,50,68,98,119,139,145,149,149,131,125,142,144
     const int stride=1;
     const int zeroPadding=0;
     const int inputChannels=3;
-    const int outputChannels=64;
+    const int outputChannels=2; 
     const int nbNeurons=(int)((inputSize-fieldSize+2*zeroPadding)/stride +1);
 
 	double time;
